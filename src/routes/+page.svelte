@@ -50,3 +50,7 @@
 		<RangePicker />
 	</div>
 </section>
+
+<svelte:head>
+	<title>Melt Test</title>
+</svelte:head>
